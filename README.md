@@ -28,4 +28,32 @@ To reproduce the methodology:
 
 ## Citation
 If you utilize this code or the proposed methodology in your own research, please consider citing our manuscript:
-> Chen Haichang, et al. (2026). A Computational Framework and Software Tool for Generating Complex Survival Data with Predefined Censoring Rates in Simulation Studies. *Manuscript under review*.
+> Chen, H., Yao, Q., Lin, Y. et al. A computational framework and software tool for generating complex survival data with predefined censoring rates in simulation studies. BMC Med Res Methodol (2026). https://doi.org/10.1186/s12874-026-02843-y
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        .
